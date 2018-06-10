@@ -1,0 +1,2 @@
+# GitPraticeRepo
+Basically for pratice
